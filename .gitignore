@@ -1,3 +1,4 @@
 a.out
 .*.swp
 /Test_xcode
+.DS_Store
